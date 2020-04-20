@@ -1,8 +1,8 @@
 # crawler
 Crawler para realizar pesquisa no mercado livre
 
-#Testes
-npm run test
+# Testes
+npm run test: 
 
-#Start projeto
+# Start projeto: 
 npm run start
