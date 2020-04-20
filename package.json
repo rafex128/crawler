@@ -1,0 +1,21 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "start.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "jest": "^25.4.0",
+    "supertest": "^4.0.2"
+  },
+  "scripts": {
+    "test": "jest --watchAll --verbose --coverage",
+    "start": "node start.js"
+  },
+  "author": "Rafael",
+  "license": "ISC"
+}
